@@ -2,7 +2,7 @@
 
 A modern, responsive image management system built with React, TypeScript, and Supabase. This application allows users to upload, organize, and manage images with features like albums, sorting, and easy URL sharing.
 
-![Image Manager Preview](https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Image Manager Preview](https://zejhnsohrpaxwbnuuche.supabase.co/storage/v1/object/public/images/yi1qf4h36wc.png)
 
 ## Features
 
